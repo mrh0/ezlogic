@@ -1,0 +1,2 @@
+# ezlogic
+Simple logic evaluator
