@@ -1,5 +1,5 @@
 # EzLogic
-Simple logic evaluator.
+Even monkeys could do it.
 
 # About
 
