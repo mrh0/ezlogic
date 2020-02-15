@@ -4,7 +4,6 @@ Easy Logic : Simple logic evaluator
 # About
 
 Evaluates simple logic expressions operating on 32bit integer values and returning a single integer value.
-
 Intended to be used for Minecraft Redstone logic but could be adapted for other things.
 
 By: mrh0 (aka MRHminer or hminer)
