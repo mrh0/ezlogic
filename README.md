@@ -1,5 +1,5 @@
-# ezlogic
-Easy Logic : Simple logic evaluator
+# EzLogic
+Simple logic evaluator.
 
 # About
 
