@@ -1,2 +1,3 @@
 # ezlogic
-Simple logic evaluator
+Easy Logic : Simple logic evaluator
+
