@@ -27,5 +27,5 @@ rng : random integer number (0-15).
 << >> <<< >>> : bitwise shift left, shift right, rotate left, rotate right.
 && : logical and (results in the greatest of the two operands or 0).
 || : logical or (results in the first of the two operands that is greater than 0).
-! : logical not (results as 1 or 0).
+! : logical not (results in 1 or 0).
 ```
