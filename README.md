@@ -11,7 +11,7 @@ By: mrh0 (aka MRHminer or hminer)
 # Keywords:
 ```
 low : 0
-hight : 15
+high : 15
 true : 1
 false: 0
 state : current/previous output.
