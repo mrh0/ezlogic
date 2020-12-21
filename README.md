@@ -8,7 +8,7 @@ Intended to be used for Minecraft Redstone logic but could be adapted for other 
 
 By: mrh0 (aka MRHminer or hminer)
 
-# Literals:
+# Identifiers:
 ```
 low : 0
 high : 15
